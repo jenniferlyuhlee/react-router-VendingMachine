@@ -1,0 +1,23 @@
+.VM-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.VM-img{
+    width: 500px;
+    margin: -50px;
+}
+
+.VM-links{
+    background-color: seagreen;
+    padding: 1.5rem;
+    border-radius: 20px;
+}
+.VM-link{
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    margin: 0.4rem;
+}

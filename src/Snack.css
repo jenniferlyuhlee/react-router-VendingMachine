@@ -1,0 +1,24 @@
+.Snack-name{
+    font-size: 2.5rem;
+}
+
+.Snack-desc{
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #555555;
+}
+
+.Snack-img{
+    width: 300px;
+}
+
+.Home-link{
+    display: block;
+    width: fit-content;
+    margin: 1rem auto;
+    padding: 0.5rem;
+    text-decoration: none;
+    color: darkgray;
+    border: 2px solid darkgrey;
+    border-radius: 10px;
+}
